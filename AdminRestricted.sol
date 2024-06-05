@@ -1,10 +1,9 @@
-Question:
-Write a smart contract that allows only the admin to access and call all the functions of the contract.
+//Question:
+//Write a smart contract that allows only the admin to access and call all the functions of the contract.
 
-Hint: use modifiers to restrict access
-
-Solution:
+//Solution:
 //SPDX-License-Identifier: MIT
+
 pragma solidity ^0.8.0;
 
 contract AdminRestricted {
